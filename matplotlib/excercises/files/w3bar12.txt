@@ -1,0 +1,2 @@
+Mean velocity: 54.74, 42.35, 67.37, 58.24, 30.25
+Standard deviation of velocity: 4, 3, 4, 1, 5

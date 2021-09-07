@@ -1,0 +1,4 @@
+Means (men) = (22, 30, 35, 35, 26)
+Means (women) = (25, 32, 30, 35, 29)
+Men Standard deviation = (4, 3, 4, 1, 5)
+Women Standard deviation = (3, 5, 2, 3, 3)

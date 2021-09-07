@@ -1,0 +1,6 @@
+languages = [['Language','Science','Math'],
+['Science','Math','Language'],
+['Math','Language','Science']]
+numbers = [{'Language':75, 'Science':88, 'Math':96},
+{'Language':71, 'Science':95, 'Math':92},
+{'Language':75, 'Science':90, 'Math':89}]
